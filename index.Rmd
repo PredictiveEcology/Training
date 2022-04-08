@@ -7,3 +7,26 @@ output: html_document
 
 This is the future site of training material for using a PERFICT approach for ecological systems.
 
+## Training documents
+
+### First steps
+
+[The doEvent function](Tutorials/doEvent.html)
+
+### Intermediate
+
+Coming ...
+
+### Advanced
+
+
+Coming ... 
+
+## Training Videos
+
+Coming ...
+
+
+## Workshops
+
+Coming ...
