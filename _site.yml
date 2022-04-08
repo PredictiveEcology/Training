@@ -1,0 +1,9 @@
+name: "training"
+navbar:
+  title: "training"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: docs

@@ -1,0 +1,8 @@
+---
+title: "About Training"
+author: "Eliot McIntire"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+More about this web site
